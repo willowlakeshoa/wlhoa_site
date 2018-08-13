@@ -38,16 +38,13 @@
     "noImageResize": "",
     "uniqCompNum": 14,
     "versionPublish": "4.8.1",
-    "screenshot": "screenshot.png",
-    "ftpLocation": "ftp://ph16962521181@107.180.34.106:21",
-    "publishType": "ftp",
-    "publishFtpPath": "wlhoa_site"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Willow Lakes Homeowners' Association",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1387,11 +1384,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Willow Lakes Homeowners' Association</b><div><a href=\"mailto:willowlakeshoa@gmail.com\">willowlakeshoa@gmail.com</a> or</div><div>P.O. Box 822</div><div>Greenwood, IN 46142</div><div><b><br></b></div><div><b>President</b></div><div>John Prey</div><div>317-887-6300</div><div><b><br></b></div><div><b>Treasurer</b></div><div>Susan Cecil</div><div>317-885-9627</div><div><b><br></b></div><div><b>Board Members</b></div><div>Nathan Byrer</div><div>317-457-9792</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r0D4BoFODO",
-          "_anchor": "content1-d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content1-d"
         }
       ]
     },
