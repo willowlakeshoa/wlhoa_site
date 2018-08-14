@@ -486,7 +486,7 @@
     "community_info.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Community info - Willow Lakes Homeowners' Association",
+        "title": "Community info",
         "order": 1
       },
       "components": [
@@ -966,7 +966,7 @@
     "contact_us.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Contact us - Willow Lakes Homeowners' Association",
+        "title": "Contact us",
         "order": 4
       },
       "components": [
@@ -1398,7 +1398,7 @@
     "faq.html": {
       "settings": {
         "meta_descr": "",
-        "title": "FAQ - Willow Lakes Homeowners' Association",
+        "title": "FAQ",
         "order": 3
       },
       "components": [
@@ -1865,7 +1865,7 @@
     "covenants_and_restrictions.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Covenants and restrictions - Willow Lakes Homeowners' Association",
+        "title": "Covenants and restrictions",
         "order": 2
       },
       "components": [
